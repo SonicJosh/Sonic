@@ -1,0 +1,18 @@
+
+
+*.pyc
+
+*~
+
+__pycache__
+
+djangodev_venv
+
+db.sqlite3
+
+/static
+
+.DS_Store
+
+
+Message #python-class
